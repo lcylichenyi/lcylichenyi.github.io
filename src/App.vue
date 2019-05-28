@@ -9,10 +9,7 @@
   padding: 0;
   margin: 0;
 }
-body, html {
-  height: 100%;
-}
-#app {
+html,body,#app {
   height: 100%;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div style="display: flex; height: 100%">
+  <div style="display: flex; height: 130%">
     <div class="header">
       <div class="container">
         <div class="line-1">
